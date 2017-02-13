@@ -9,6 +9,13 @@ import AppBar from 'material-ui/AppBar';
 import FontIcon from 'material-ui/FontIcon';
 import Paper from 'material-ui/Paper';
 import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';
+import { ApolloClient, createNetworkInterface } from 'apollo-client';
+
+// const client = new ApolloClient({
+//   networkInterface: createNetworkInterface({
+//     uri: ''
+//   })
+// });
 
 const homeIcon = <FontIcon className='material-icons'>home</FontIcon>;
 const favoritesIcon = <FontIcon className='material-icons'>favorite</FontIcon>;
