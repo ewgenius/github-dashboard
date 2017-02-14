@@ -4980,9 +4980,9 @@ react-event-listener@^0.4.0:
     react-addons-shallow-compare "^15.4.2"
     warning "^3.0.0"
 
-react-scripts-typescript-scss@0.9.10:
-  version "0.9.10"
-  resolved "https://registry.yarnpkg.com/react-scripts-typescript-scss/-/react-scripts-typescript-scss-0.9.10.tgz#355b72991ee56ade886c3aae7b6f10d343325afe"
+react-scripts-typescript-scss@^0.9.12:
+  version "0.9.12"
+  resolved "https://registry.yarnpkg.com/react-scripts-typescript-scss/-/react-scripts-typescript-scss-0.9.12.tgz#9523b1b36a2e30c08b30e974a110ae13fc495615"
   dependencies:
     autoprefixer "6.7.2"
     babel-core "6.22.1"
